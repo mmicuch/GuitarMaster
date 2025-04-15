@@ -9,10 +9,32 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^14.1.0",
+    "@react-native-async-storage/async-storage": "^1.24.0",
+    "@react-native-community/voice": "^1.1.9",
+    "@react-native-firebase/app": "^21.14.0",
+    "@react-native-firebase/auth": "^21.14.0",
+    "@react-navigation/bottom-tabs": "^7.3.10",
+    "@react-navigation/native": "^7.1.6",
+    "@react-navigation/native-stack": "^7.3.10",
     "expo": "~52.0.46",
+    "expo-av": "^15.0.2",
+    "expo-device": "^5.9.3",
+    "expo-file-system": "^18.0.12",
+    "expo-notifications": "^0.27.6",
+    "expo-sharing": "^11.10.0",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
-    "react-native": "0.76.9"
+    "react-native": "0.76.9",
+    "react-native-pdf": "^6.7.7",
+    "react-native-pdf-lib": "^1.0.0",
+    "react-native-pitch-detector": "^0.1.6",
+    "react-native-reanimated": "^3.17.3",
+    "react-native-share": "^12.0.9",
+    "react-native-sound": "^0.11.2",
+    "react-native-svg": "^15.11.2",
+    "react-native-view-shot": "^3.8.0",
+    "buffer": "^6.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
